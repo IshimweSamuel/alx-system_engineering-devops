@@ -1,2 +1,1 @@
-#!/bin/bash
- ls -lt -type f | head
+#!/bin/bash ls -lt -type f | head
